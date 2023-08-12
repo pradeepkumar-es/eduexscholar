@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     <Navabar title="EduExScholar" text="AboutEES"/>
-    <Alert alert="Welcome To EduExScholar"/>
+    <Alert alert="Welcome To EduExScholar "/>
     {/* <Navabar/>   */} 
     <BrowserRouter>
        <Routes>
