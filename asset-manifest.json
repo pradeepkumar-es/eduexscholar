@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eduexscholar/static/css/main.abd64e84.css",
+    "main.js": "/eduexscholar/static/js/main.f756210d.js",
+    "static/js/787.e41440f6.chunk.js": "/eduexscholar/static/js/787.e41440f6.chunk.js",
+    "index.html": "/eduexscholar/index.html",
+    "main.abd64e84.css.map": "/eduexscholar/static/css/main.abd64e84.css.map",
+    "main.f756210d.js.map": "/eduexscholar/static/js/main.f756210d.js.map",
+    "787.e41440f6.chunk.js.map": "/eduexscholar/static/js/787.e41440f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f756210d.js"
+  ]
+}
